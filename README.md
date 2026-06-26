@@ -28,7 +28,7 @@ I'm an AI Engineer and Full-Stack Developer specializing in building production 
 
 *   **🎓 Final Year Project (FYP):** Developing **ProstheX**, an AI-driven bionic prosthetic system utilizing computer vision and machine learning to build cutting-edge assistive technology.
 *   **🏆 Recent Wins:** Secured **1st Position** in the web development competition at GU Tech Coders Day.
-*   **🔭 Featured Projects:** Architecting educational tech platforms like **SmartLearn AI** and **BrainBuddy**, utilizing multi-model RAG pipelines.
+*   **🔭 Featured Projects:** Architecting educational tech platforms like **SmartLearn AI** (Folio3), utilizing multi-model RAG pipelines.
 *   **🌱 Currently exploring:** Human-Agent Symbiosis (LPHAS framework) and deploying AI on constrained hardware.
 *   **💬 Ask me about:** Full-stack development (MERN, FastAPI), API integration, and orchestrating LLMs.
 
